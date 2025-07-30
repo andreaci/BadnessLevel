@@ -1,0 +1,1 @@
+Just an application made for fun, Stitch's badness level

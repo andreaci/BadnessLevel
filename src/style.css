@@ -1,0 +1,35 @@
+*{box-sizing: border-box;}
+
+html{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+  padding: 3rem;
+  
+}
+body{
+  border-radius: 1rem;
+
+  background-color: white;
+  max-width: 900px;
+  width: 900px;
+  height: 800px;
+  margin:auto;
+} 
+
+#app{
+  padding: 3rem;
+  width: 900px;
+  height: 800px;
+}
+
+
+@font-face {
+  font-family: 'BukaBird';
+  src: 
+  url('assets/BukaBird.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
