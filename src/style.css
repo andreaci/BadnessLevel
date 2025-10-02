@@ -28,8 +28,7 @@ body{
 
 @font-face {
   font-family: 'BukaBird';
-  src: 
-  url('assets/BukaBird.woff') url('BukaBird.woff') format('woff');
+  src: url('assets/BukaBird.woff') format('woff'), url('BukaBird.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
